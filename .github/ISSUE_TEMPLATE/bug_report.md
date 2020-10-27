@@ -10,6 +10,12 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Specify application input**
+Please specify the GTFS files provided as application input, either by listing a static GTFS URL, or by attaching a zip file.
+
+**Does the application crash/hang?**
+Yes/No
+
 **To Reproduce**
 Steps to reproduce the behavior, including input data sample if applicable:
 
